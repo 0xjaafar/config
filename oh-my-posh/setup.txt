@@ -1,0 +1,8 @@
+1. winget install JanDeDobbeleer.OhMyPosh -s winget
+2. Install-Module -Name Terminal-Icons -Repository PSGallery
+3. Install ubunto font: https://www.nerdfonts.com/
+4. notepad $PROFILE | New-Item -Path $PROFILE -Type File -Force
+5. Modify the file under: C:\Users\admin\Documents\WindowsPowerShell
+6. Add the following: 
+    oh-my-posh --init --shell pwsh --config C:\config\agnoster.omp.json | Invoke-Expression
+    Import-Module -Name Terminal-Icons
