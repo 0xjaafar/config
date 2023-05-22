@@ -1,0 +1,106 @@
+{
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'JetBrains Mono'",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.minimap.enabled": false,
+  "workbench.colorCustomizations": {
+    // Editor Colors
+    "editor.background": "#1a1a1a",
+    "editor.foreground": "#d4d4d4",
+    "editor.selectionBackground": "#253559",
+    // "editor.selectionHighlightBackground": "#264f78",
+    // "editor.wordHighlightBackground": "#444444",
+    // "editor.wordHighlightStrongBackground": "#444444",
+    // "editor.findMatchBackground": "#ffd700",
+    // "editor.findMatchHighlightBackground": "#ffd700",
+    // "editor.hoverHighlightBackground": "#444444",
+    // "editor.lineHighlightBackground": "#333333",
+    // "editorIndentGuide.background": "#505050",
+    // "editorRuler.foreground": "#999999",
+    // "editorCursor.background": "#ffffff",
+    // "editorCursor.foreground": "#000000",
+    "editorLineNumber.foreground": "#6f6f6f",
+    "editorLineNumber.activeForeground": "#ffffff",
+    // Sidebar Colors
+    "sideBar.background": "#111111",
+    "sideBar.foreground": "#cccccc",
+    "sideBarTitle.foreground": "#ffffff",
+    "sideBarSectionHeader.background": "#2e2e2e",
+    "sideBarSectionHeader.foreground": "#ffffff",
+    // Activity Bar Colors
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#ffffff",
+    "activityBarBadge.background": "#a24cbc",
+    "activityBarBadge.foreground": "#ffffff",
+    // Panel Colors
+    "panel.background": "#1a1a1a",
+    "panel.foreground": "#cccccc",
+    
+    // Terminal Colors
+    // "terminal.background": "#222222",
+    // "terminal.foreground": "#cccccc",
+
+    // Editor Header Colors
+    "editorGroupHeader.tabsBackground": "#222222",
+    "editorGroupHeader.tabsBorder": "#222222",
+    "tab.activeBackground": "#131313",
+    "tab.activeForeground": "#ffffff",
+    "tab.inactiveBackground": "#222222",
+    "tab.inactiveForeground": "#acacac",
+    "tab.border": "#222222",
+    "tab.unfocusedActiveForeground": "#222222",
+    "tab.unfocusedInactiveForeground": "#cccccc"
+  },
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "workbench.colorTheme": "Atom One Dark",
+  "json.schemas": [],
+  "workbench.iconTheme": "material-icon-theme"
+}
