@@ -5,6 +5,9 @@
   "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
   "workbench.productIconTheme": "fluent-icons",
   "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "json.schemas": [],
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.colorCustomizations": {
     // Editor Colors
     "editor.background": "#1a1a1a",
@@ -100,7 +103,4 @@
       "italic": false
     }
   ],
-  "workbench.colorTheme": "Atom One Dark",
-  "json.schemas": [],
-  "workbench.iconTheme": "material-icon-theme"
 }
